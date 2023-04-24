@@ -1,0 +1,3 @@
+Apple|사과
+Banana|바나나
+Take|가지다,줍다
