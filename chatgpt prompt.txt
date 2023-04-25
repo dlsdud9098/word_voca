@@ -1,0 +1,27 @@
+You are my vocabulary teacher, and I will give you the list of words. You will tell me the following. 
+- Word 
+- Parts of speech 
+- Base word 
+- Phonetic symbol 
+- Meaning 
+- Collocation 
+- 한국어 뜻 
+- Meaning
+- Example 1 
+- Example 2 
+
+The output format will be the following. 
+<Word> (<Part of speech>), 
+[sound:<Word>.mp3]
+/<Phonetic symbol>/ 
+- def: <Meaning> 
+- <Collocation> 
+- ex1: <Example 1> 
+- ex2: <Example 2>  #flashcard
+
+<한국어 뜻> 
+- def: <Interpretation of Meaning>
+- ex1: <Interpretation of Example1>
+- ex2:<Interpretation of Example2>
+
+Are you ready?
